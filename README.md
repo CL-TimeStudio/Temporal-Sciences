@@ -14,10 +14,11 @@ This repository contains my novel and speculative definitions of time, alongside
 2. **Coming Soon:**  
    A unified framework for fundamental quantities, built upon the time and distance document.
 
-## Links to Documents  
+## Links  
 - **[Time and Distance: A New Approach](https://doi.org/10.5281/zenodo.14560148)** (stored on Zenodo.org)
+- **[Time and Distance - Custom OpenAI ChatGPT](https://chatgpt.com/g/g-67731559dc9481918ddf4a312de0516b-time-and-distance-a-new-approach)** (A custom GPT designed to interact with the concepts from *Time and Distance: A New Approach*.)  
 
-I hope you find this work intriguing as a speculative framework and alternative perspective on these fundamental concepts.  
+I hope you find this work engaging as a speculative framework and an alternative perspective on these fundamental concepts.
 
 Thank you for your time,  
 **Colin Lynch**
