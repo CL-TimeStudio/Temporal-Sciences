@@ -5,18 +5,19 @@ This repository contains my novel and speculative definitions of time, alongside
 
 ## About This Work  
 - **Non-peer-reviewed:** This work represents my personal research and has not undergone peer review or external evaluation.  
-- **Progress and Motivation:** I find the progress I'm making fascinating and believe it challenges the foundational frameworks currently available. While these ideas are still in development, I hope they spark interest and discussion.  
+- **Progress and Motivation:** I find the progress and direction this work is taking me fascinating and believe it challenges the foundational frameworks currently available. While these ideas are still in development, I hope they spark interest and discussion.  
 
 ## Contents  
 1. **Time and Distance: A New Approach**  
    This document reexamines the conventional understanding of time as a universal constant, proposing instead that "clock time" measures the rate of change of actual time. It introduces a framework suggesting an equivalency between time and distance, analogous to Einstein's energy-mass equivalency. The work explores mathematical relationships linking time, distance, mass, and energy, and tests these ideas against the estimated age of the universe. While untested and unreviewed, this exploration is intended to spark discussion and offer fresh perspectives on the interplay of fundamental forces and constants.  
 
-2. **Coming Soon:**  
-   A unified framework for fundamental quantities, built upon the time and distance document.
+2. **Universe Framework for Time, Distance, Energy, and Mass**  
+   Building upon the concepts in *Time and Distance: A New Approach*, proposed here is a framework for how time, distance, energy, and mass relate to each other within a universe.
 
 ## Links  
-- **[Time and Distance: A New Approach](https://doi.org/10.5281/zenodo.14560148)** (stored on Zenodo.org)
-- **[Time and Distance - Custom OpenAI ChatGPT](https://chatgpt.com/g/g-67731559dc9481918ddf4a312de0516b-time-and-distance-a-new-approach)** (A custom GPT designed to interact with the concepts from *Time and Distance: A New Approach*.)  
+- [read first] **[Time and Distance: A New Approach](https://doi.org/10.5281/zenodo.14560148)** (stored on Zenodo.org)
+   - **[Time and Distance - Custom OpenAI ChatGPT](https://chatgpt.com/g/g-67731559dc9481918ddf4a312de0516b-time-and-distance-a-new-approach)** (A custom GPT designed to interact with the concepts from *Time and Distance: A New Approach*)
+- [read second] **[Universe Framework for Time, Distance, Energy, and Mass](https://doi.org/10.5281/zenodo.14597436)** (stored on Zenodo.org)
 
 I hope you find this work engaging as a speculative framework and an alternative perspective on these fundamental concepts.
 
