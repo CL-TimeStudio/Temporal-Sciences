@@ -14,10 +14,14 @@ This repository contains my novel and speculative definitions of time, alongside
 2. **Universe Framework for Time, Distance, Energy, and Mass**  
    Building upon the concepts in *Time and Distance: A New Approach*, proposed here is a framework for how time, distance, energy, and mass relate to each other within a universe.
 
+2. **Time Defines the Gravitational Constant and Fundamental Spacetime Curvature**  
+   Building upon the concepts in *Time and Distance: A New Approach* and *Universe Framework for Time, Distance, Energy, and Mass*, proposed here is how the temporal rate of change for the universe defines time.
+
 ## Links  
 - [read first] **[Time and Distance: A New Approach](https://doi.org/10.5281/zenodo.14560148)** (stored on Zenodo.org)
    - **[Time and Distance - Custom OpenAI ChatGPT](https://chatgpt.com/g/g-67731559dc9481918ddf4a312de0516b-time-and-distance-a-new-approach)** (A custom GPT designed to interact with the concepts from *Time and Distance: A New Approach*)
 - [read second] **[Universe Framework for Time, Distance, Energy, and Mass](https://doi.org/10.5281/zenodo.14597436)** (stored on Zenodo.org)
+- [read third] **[Time Defines the Gravitational Constant and Fundamental Spacetime Curvature](https://doi.org/10.5281/zenodo.14624275)** (stored on Zenodo.org)
 
 I hope you find this work engaging as a speculative framework and an alternative perspective on these fundamental concepts.
 
