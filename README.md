@@ -25,6 +25,11 @@ This repository contains my novel and speculative definitions of time, alongside
 
    **[Time Defines the Gravitational Constant and Fundamental Spacetime Curvature](https://doi.org/10.5281/zenodo.14624275)** (stored on Zenodo.org)
 
+Additional Links
+
+**Temporal Sciences - Foundations - YouTube Channel - (https://www.youtube.com/@ColinLynchWorld)**
+
+
 I hope you find this work engaging as a speculative framework and an alternative perspective on these fundamental concepts.
 
 Thank you for your time,  
