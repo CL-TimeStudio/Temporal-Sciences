@@ -1,6 +1,6 @@
 
 
-# Time-and-Space #
+# Redefining Time and the Universe #
 **A collection of speculative definitions for time and space**
 
 This repository contains my novel and speculative definitions of time, alongside a forthcoming unified framework for fundamental quantities. My intention is to share these ideas as a starting point for analysis and exploration.
