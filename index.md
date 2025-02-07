@@ -1,7 +1,8 @@
-<!-- Set Favicon -->
+
 <head>
     <link rel="icon" type="image/png" href="favicon.png?v=2">
 </head>
+
 # Time-and-Space #
 **A collection of speculative definitions for time and space**
 
