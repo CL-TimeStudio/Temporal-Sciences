@@ -1,4 +1,6 @@
-
+<head>
+    <link rel="icon" type="image/png" href="favicon.png?v=2">
+</head>
 
 # Redefining Time and the Universe #
 **A collection of speculative definitions for time and space**
