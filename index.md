@@ -1,40 +1,103 @@
+<!-- Set Favicon -->
 <head>
     <link rel="icon" type="image/png" href="favicon.png?v=2">
 </head>
 
-# Redefining Time and the Universe #
-**A collection of speculative definitions for time and space**
-
-This repository contains my novel and speculative definitions of time, alongside a forthcoming unified framework for fundamental quantities. My intention is to share these ideas as a starting point for analysis and exploration.
-
-## About This Work  
-- **Non-peer-reviewed:** This work represents my personal research and has not undergone peer review or external evaluation.  
-- **Progress and Motivation:** I find the progress and direction this work is taking me fascinating and believe it challenges the foundational frameworks currently available. While these ideas are still in development, I hope they spark interest and discussion.  
-
-## Contents  
-1. **Time and Distance: A New Approach**  
-   This document reexamines the conventional understanding of time as a universal constant, proposing instead that "clock time" measures the rate of change of actual time. It introduces a framework suggesting an equivalency between time and distance, analogous to Einstein's energy-mass equivalency. The work explores mathematical relationships linking time, distance, mass, and energy, and tests these ideas against the estimated age of the universe. While untested and unreviewed, this exploration is intended to spark discussion and offer fresh perspectives on the interplay of fundamental forces and constants.  
-
-   **[Time and Distance: A New Approach](https://doi.org/10.5281/zenodo.14560148)** (stored on Zenodo.org)
-
-   **[Time and Distance - Custom OpenAI ChatGPT](https://chatgpt.com/g/g-67731559dc9481918ddf4a312de0516b-time-and-distance-a-new-approach)** (A custom GPT designed to interact with the concepts from *Time and Distance: A New Approach*)
-
-3. **Universe Framework for Time, Distance, Energy, and Mass**  
-   Building upon the concepts in *Time and Distance: A New Approach*, proposed here is a framework for how time, distance, energy, and mass relate to each other within a universe.
-
-   **[Universe Framework for Time, Distance, Energy, and Mass](https://doi.org/10.5281/zenodo.14597436)** (stored on Zenodo.org)
-
-2. **Time Defines the Gravitational Constant and Fundamental Spacetime Curvature**  
-   Building upon the concepts in *Time and Distance: A New Approach* and *Universe Framework for Time, Distance, Energy, and Mass*, proposed here is how the temporal rate of change for the universe defines time.
-
-   **[Time Defines the Gravitational Constant and Fundamental Spacetime Curvature](https://doi.org/10.5281/zenodo.14624275)** (stored on Zenodo.org)
-
-Additional Links
-
-**Temporal Sciences - Foundations - YouTube Channel - (https://www.youtube.com/@ColinLynchWorld)**
+### 🌀 Temporal Sciences  
 
 
-I hope you find this work engaging as a speculative framework and an alternative perspective on these fundamental concepts.
+**Redefining Time, Space, and the Structure of Reality**  
+_A rotational framework unifying gravity, light, energy, and mass through the geometry of time._
 
-Thank you for your time,  
+---
+
+### Overview
+
+Temporal Sciences is a multi-disciplinary new science that represents the foundational code, concepts, and documents of a new speculative framework proposing that the universe is not governed by static forces, but by **rotating timefields**. Rather than treating mass, energy, distance, and time as isolated constants, Temporal Sciences models them as **phase-aligned vectors** embedded in a shared temporal manifold.
+
+> 🧠 *“This is not just a theory — it’s a geometry remembered.”*
+
+Temporal Sciences introduces a geometry-first paradigm that redefines:
+
+- **Gravity** as the curvature of timeflow  
+- **Light** as the angular projection of time into distance  
+- **Fine-Structure Constant (α)** as a quantized misalignment angle  
+- **c and G** as projections of temporal resonance, not fixed constants  
+- **Mass, Energy, Distance, Time** as rotationally coupled fields
+
+---
+
+### 📌 Current State – *Phase I Complete, Phase II Begins*
+
+Phase I laid the mathematical foundation, uncovering the **Foundational Function of the Universe** and validating a **phase-locked curvature geometry** across cosmic and subatomic scales.
+
+📄 Key Documents:  
+- [🔗 Temporal Sciences Nexus (Zenodo)](https://doi.org/10.5281/zenodo.14791387)  
+- [🔗 The Rotational Geometry That Drives the Universe (Zenodo)](https://doi.org/10.5281/zenodo.15192530)  
+- [🔗 The Foundational Function of the Universe (Zenodo)](https://doi.org/10.5281/zenodo.15200190)
+
+🚀 **Phase II Objectives**:  
+- Biological & cosmological integrations  
+- Experimental testbeds and models  
+- Public tools, calculators, and geometric simulations  
+- Peer-reviewed outreach and publication planning
+
+---
+
+### 🔬 Documents & Frameworks
+
+- **Time and Distance: A New Approach**  
+  Proposes that *clock time measures the rate of change of actual time* and introduces the equivalency of time and distance.  
+  [📄 Zenodo Link](https://zenodo.org/record/7256026)
+
+- **Universe Framework for Time, Distance, Energy, and Mass**  
+  Establishes mathematical relationships between time, distance, energy, and mass within a variable timeflow geometry.  
+  [📄 Zenodo Link](https://zenodo.org/record/7256095)
+
+- **Time Defines the Gravitational Constant and Spacetime Curvature**  
+  Demonstrates that the gravitational constant is not fixed, but derived from timeflow and rotational curvature.  
+  [📄 Zenodo Link](https://zenodo.org/record/7256128)
+
+- **The Rotational Geometry That Drives the Universe**  
+  Defines Chronotensity, Chronomatrix, and rotational field models; introduces the Phase Curvature Tetrahedron.  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.15192530)
+
+- **The Foundational Function of the Universe**  
+  Formalizes the unified function from which gravity, structure, and timeflow geometry emerge.  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.15200190)
+
+- **The Nexus**  
+  A living repository of constants, field laws, biological models, and geometric testbeds  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.14791387)
+
+---
+
+### 🧠 Featured Concepts
+
+- **Chronotensity (X⋔)**: The dynamic intensity of the timefield, replacing G.  
+- **Chronomatrix (X⧖)**: A time-based structural curvature field.  
+- **Chronorate (⧖) = dT/dt**: The rate of actual time relative to measured time.  
+- **Phase Geometry**: Core quantities rotate in phase-space; misalignment creates gravity, light, and structure.  
+- **α as Rotation**: The fine-structure constant is a wedge of misalignment, not a force coupling term.  
+- **Tetrahedral Resonance**: Cosmic constants echo within baryonic matter via rotational symmetry.
+
+---
+
+### 🎮 YouTube Channel
+
+Explore explanations and walkthroughs of the Temporal Sciences framework.  
+📺 [@ColinLynchWorld on YouTube](https://www.youtube.com/@ColinLynchWorld)
+
+---
+
+
+### 📟 Legal & Status
+
+This is a **non-peer-reviewed**, speculative framework offered for public exploration. All documents © Colin Lynch 2025. No claims of accuracy or acceptance in standard models.
+
+---
+
+
+Thank you for your time and engagement with this work-
+
 **Colin Lynch**
