@@ -46,29 +46,38 @@ Phase I laid the mathematical foundation, uncovering the **Foundational Function
 
 ### 🔬 Documents & Frameworks
 
-- **Time and Distance: A New Approach**  
-  Proposes that *clock time measures the rate of change of actual time* and introduces the equivalency of time and distance.  
-  [📄 Zenodo Link](https://zenodo.org/record/7256026)
-
-- **Universe Framework for Time, Distance, Energy, and Mass**  
-  Establishes mathematical relationships between time, distance, energy, and mass within a variable timeflow geometry.  
-  [📄 Zenodo Link](https://zenodo.org/record/7256095)
-
-- **Time Defines the Gravitational Constant and Spacetime Curvature**  
-  Demonstrates that the gravitational constant is not fixed, but derived from timeflow and rotational curvature.  
-  [📄 Zenodo Link](https://zenodo.org/record/7256128)
-
-- **The Rotational Geometry That Drives the Universe**  
-  Defines Chronotensity, Chronomatrix, and rotational field models; introduces the Phase Curvature Tetrahedron.  
-  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.15192530)
+- **The Nexus**  
+  A living repository of constants, field laws, biological models, and geometric testbeds  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.14791387)
 
 - **The Foundational Function of the Universe**  
   Formalizes the unified function from which gravity, structure, and timeflow geometry emerge.  
   [📄 Zenodo Link](https://doi.org/10.5281/zenodo.15200190)
 
-- **The Nexus**  
-  A living repository of constants, field laws, biological models, and geometric testbeds  
-  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.14791387)
+- **The Rotational Geometry That Drives the Universe**  
+  Defines Chronotensity, Chronomatrix, and rotational field models; introduces the Phase Curvature Tetrahedron.  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.15192530)
+
+- **Eliminating Dark Energy from the Friedmann Equations: A Temporal Approach**  
+  This work proposes a temporal reinterpretation of the Friedmann equations, showing that cosmic acceleration can be explained through time evolution rather than an external force  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.14914742)
+
+- **Time Defines the Gravitational Constant and Spacetime Curvature**  
+  Demonstrates that the gravitational constant is not fixed, but derived from timeflow and rotational curvature.  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.14624274)
+
+- **Hubble Tension: The Temporal Resolution**  
+  This work explores a novel perspective on the Hubble constant, proposing that it is not a fixed value to be discovered but one intrinsically linked to the rate of temporal change within the universe.  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.14728837)
+
+- **Universe Framework for Time, Distance, Energy, and Mass**  
+  Establishes mathematical relationships between time, distance, energy, and mass within a variable timeflow geometry.  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.14597435)
+
+- **Time and Distance: A New Approach**  
+  Proposes that *clock time measures the rate of change of actual time* and introduces the equivalency of time and distance.  
+  [📄 Zenodo Link](https://doi.org/10.5281/zenodo.14560147)
+
 
 ---
 
