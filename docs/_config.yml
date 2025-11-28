@@ -2,6 +2,5 @@ title: Temporal Sciences Wiki
 description: Public documents and projects associated with the Temporal Sciences Foundation (TSF).
 theme: minima
 markdown: kramdown
-url: "https://www.temporalsciences.wiki/"
+url: "https://www.temporalsciences.wiki"
 baseurl: ""   # leave empty if using a custom domain or user site
-``` :contentReference[oaicite:4]{index=4}  
