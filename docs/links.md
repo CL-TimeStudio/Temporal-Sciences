@@ -25,7 +25,7 @@ This page collects the main public entry points into Temporal Sciences and the T
   https://www.temporalsciences.wiki
 
 - **Temporal Sciences Foundation (TSF)**  
-  https://temporalsciencesfoundation.org/
+  https://temporalsciencesfoundation.org
 
 ---
 
@@ -35,7 +35,7 @@ This page collects the main public entry points into Temporal Sciences and the T
   https://www.youtube.com/@ColinLynchWorld
 
 - **ColinLynch.world**  
-  https://colinlynch.world/
+  https://colinlynch.world
 
 ---
 
