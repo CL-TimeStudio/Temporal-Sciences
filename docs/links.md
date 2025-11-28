@@ -4,13 +4,11 @@ title: Links & TSF
 ---
 
 <p align="center">
-  <a href="{{ '/' | relative_url }}">Home / Projects</a>
+  <a href="/Temporal-Sciences/">Home / Projects</a>
   <b>⧖</b>
-  <a href="{{ '/documents/' | relative_url }}">Documents & Downloads</a>
+  <a href="/Temporal-Sciences/documents/">Documents & Downloads</a>
   <b>⧖</b>
-  <a href "{{ '/links/' | relative_url }}">Links & TSF</a>
+  <a href="/Temporal-Sciences/links/">Links & TSF</a>
 </p>
 
 ---
-
-
