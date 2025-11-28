@@ -3,16 +3,6 @@ layout: default
 title: Links & TSF
 ---
 
-<p align="center">
-  <a href="/">Home / Projects</a>
-  <b>⧖</b>
-  <a href="/documents.html">Documents & Downloads</a>
-  <b>⧖</b>
-  <a href="/links.html">Links & TSF</a>
-</p>
-
----
-
 # Links & TSF
 
 This page collects the main public entry points into Temporal Sciences and the Temporal Sciences Foundation (TSF): official sites, document libraries, media, and tools. All linked documents are speculative, non-peer-reviewed work shared to invite exploration and critique.
