@@ -3,16 +3,6 @@ layout: default
 title: Documents & Frameworks
 ---
 
-<p align="center">
-  <a href="/">Home / Projects</a>
-  <b>⧖</b>
-  <a href="/documents.html">Documents & Downloads</a>
-  <b>⧖</b>
-  <a href="/links.html">Links & TSF</a>
-</p>
-
----
-
 # Documents & Frameworks
 
 This page lists all publicly released Temporal Sciences documents in chronological order.
@@ -96,6 +86,7 @@ The work explores mathematical relationships linking time, distance, mass, and e
 ---
 
 # End of Document
+
 
 
 
