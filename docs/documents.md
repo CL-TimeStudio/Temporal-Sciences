@@ -4,11 +4,11 @@ title: Documents & Frameworks
 ---
 
 <p align="center">
-  <a href="/Temporal-Sciences/">Home / Projects</a>
+  <a href="/">Home / Projects</a>
   <b>⧖</b>
-  <a href="/Temporal-Sciences/documents.html">Documents & Downloads</a>
+  <a href="/documents.html">Documents & Downloads</a>
   <b>⧖</b>
-  <a href="/Temporal-Sciences/links.html">Links & TSF</a>
+  <a href="/links.html">Links & TSF</a>
 </p>
 
 ---
@@ -96,6 +96,7 @@ The work explores mathematical relationships linking time, distance, mass, and e
 ---
 
 # End of Document
+
 
 
 
