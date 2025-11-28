@@ -4,11 +4,11 @@ title: Temporal Sciences Wiki
 ---
 
 <p align="center">
-  <a href="/Temporal-Sciences/">Home / Projects</a>
+  <a href="/">Home / Projects</a>
   <b>⧖</b>
-  <a href="/Temporal-Sciences/documents/">Documents & Downloads</a>
+  <a href="/documents/">Documents & Downloads</a>
   <b>⧖</b>
-  <a href="/Temporal-Sciences/links/">Links & TSF</a>
+  <a href="/links/">Links & TSF</a>
 </p>
 
 ---
