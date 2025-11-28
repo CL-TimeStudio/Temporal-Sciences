@@ -4,11 +4,11 @@ title: Links & TSF
 ---
 
 <p align="center">
-  <a href="/">Home / Projects</a>
+  <a href="/Temporal-Sciences/">Home / Projects</a>
   <b>⧖</b>
-  <a href="/documents/">Documents & Downloads</a>
+  <a href="/Temporal-Sciences/documents.html">Documents & Downloads</a>
   <b>⧖</b>
-  <a href="/links/">Links & TSF</a>
+  <a href="/Temporal-Sciences/links.html">Links & TSF</a>
 </p>
 
 ---
