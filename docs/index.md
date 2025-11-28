@@ -3,16 +3,6 @@ layout: default
 title: Temporal Sciences Wiki
 ---
 
-<p align="center">
-  <a href="/">Home / Projects</a>
-  <b>⧖</b>
-  <a href="/documents.html">Documents & Downloads</a>
-  <b>⧖</b>
-  <a href="/links.html">Links & TSF</a>
-</p>
-
----
-
 # Temporal Sciences Wiki
 
 The Temporal Sciences Wiki serves as the open-access hub for the work, documents, and research projects associated with the **Temporal Sciences Foundation (TSF)**:  
