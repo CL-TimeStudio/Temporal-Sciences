@@ -6,7 +6,7 @@ title: Temporal Sciences Wiki
 # Temporal Sciences Wiki
 
 The Temporal Sciences Wiki serves as the open-access hub for the work, documents, and research projects associated with the **Temporal Sciences Foundation (TSF)**:  
-🔗 https://temporalsciencesfoundation.org/
+🔗 <https://temporalsciencesfoundation.org/>
 
 This site consolidates publicly available descriptions, frameworks, and references related to Temporal Sciences — a time-centric approach to understanding physical and biological systems.
 
@@ -53,7 +53,7 @@ Created and steward the Temporal Sciences Nexus (“The Nexus”), an open-acces
 This document introduces Temporal Sciences, a new theoretical framework exploring the foundational role of time in shaping physical and biological systems. The Nexus serves as the central reference for this framework, consolidating its key equations, scaling laws, and constants across physics, cosmology, and biology.
 
 🔗 **Access the Nexus (Zenodo DOI):**  
-https://doi.org/10.5281/zenodo.14791387
+<https://doi.org/10.5281/zenodo.14791387>
 
 ---
 
