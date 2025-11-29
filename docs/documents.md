@@ -13,7 +13,7 @@ This page lists all publicly released Temporal Sciences documents in chronologic
 
 This note shows that a compact reparameterization of Newton’s constant can reproduce the canonical weak-field tests of GR using only angles and ratios, without changing any empirical predictions. Light bending, Shapiro delay, perihelion precession, gravitational redshift, and the PSR B1913+16 orbital-decay benchmark all match standard values within quoted uncertainties.
 
-🔗 Zenodo DOI: https://doi.org/10.5281/zenodo.17156340
+🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.17156340>
 
 ---
 
@@ -21,7 +21,7 @@ This note shows that a compact reparameterization of Newton’s constant can rep
 
 This document introduces the core equation of the Temporal Sciences framework, formally defining the rotational structure underlying the universe. The function expresses time (T), mass (m), energy (E), and distance (D) as co-rotating temporal fields within a 3-dimensional phase space of misalignment. This phase-based formulation replaces force-centric models with geometric coherence, revealing the true manifold from which gravity, structure, and timeflow emerge.
 
-🔗 Zenodo DOI: https://doi.org/10.5281/zenodo.15200190
+🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.15200190>
 
 ---
 
@@ -86,6 +86,7 @@ The work explores mathematical relationships linking time, distance, mass, and e
 ---
 
 # End of Document
+
 
 
 
