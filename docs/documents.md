@@ -29,7 +29,7 @@ This document introduces the core equation of the Temporal Sciences framework, f
 
 This document introduces and formalizes the foundational geometry of the Temporal Sciences framework — a unified, rotational model of the universe in which actual time T, mass m, energy E, and distance D are phase-locked fields embedded in a dynamic curvature manifold. Departing from classical force-based paradigms, this work reinterprets gravitational behavior, the fine-structure constant α, and the speed of light c as emergent consequences of rotational misalignment within a temporally curved space.
 
-🔗 Zenodo DOI: https://doi.org/10.5281/zenodo.15192530
+🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.15192530>
 
 ---
 
@@ -37,7 +37,7 @@ This document introduces and formalizes the foundational geometry of the Tempora
 
 This document serves as the Nexus for Temporal Sciences, a new branch of science dedicated to the study of time and its fundamental role in the universe. The elements contained within this document are foundational to the creation of a model of our universe from a temporal perspective (the Temporal Model). As a living document, it will be continuously refined and expanded as new insights emerge.
 
-🔗 Zenodo DOI: https://doi.org/10.5281/zenodo.14791387
+🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.14791387>
 
 ---
 
@@ -47,7 +47,7 @@ The standard model of cosmology relies on the cosmological constant Lambda (dark
 
 This approach suggests that dark energy is not a distinct physical entity but an artifact of misinterpreting time’s role in cosmic expansion, offering a new framework for understanding cosmic evolution.
 
-🔗 Zenodo DOI: https://doi.org/10.5281/zenodo.14914742
+🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.14914742>
 
 ---
 
@@ -55,7 +55,7 @@ This approach suggests that dark energy is not a distinct physical entity but an
 
 This work explores a novel perspective on the Hubble constant, proposing that it is not a fixed value to be discovered but one intrinsically linked to the rate of temporal change within the universe. The current value of the Hubble constant is presented as necessary to align with the present rate of temporal change, ensuring the invariance of the gravitational constant.
 
-🔗 Zenodo DOI: https://doi.org/10.5281/zenodo.14728837
+🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.14728837>
 
 ---
 
@@ -63,7 +63,7 @@ This work explores a novel perspective on the Hubble constant, proposing that it
 
 This work shows that the rate of change in time for the universe defines the gravitational constant for the universe and defines the fundamental curvature for spacetime. This work removes current limits to our knowledge and offers new approaches to comprehensively understand how spacetime operates universally and not just on local scales.
 
-🔗 Zenodo DOI: https://doi.org/10.5281/zenodo.14624274
+🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.14624274>
 
 ---
 
@@ -71,7 +71,7 @@ This work shows that the rate of change in time for the universe defines the gra
 
 This work builds on the concepts outlined in *Time and Distance: A New Approach* and proposes a speculative framework exploring the interrelationships among time, distance, energy, and mass within the context of the universe. Focusing on the domains of relativity and cosmology, this work aims to inspire discussion and exploration of these foundational principles.
 
-🔗 Zenodo DOI: https://doi.org/10.5281/zenodo.14597435
+🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.14597435>
 
 ---
 
@@ -81,11 +81,12 @@ This document reexamines the conventional understanding of time as a universal c
 
 The work explores mathematical relationships linking time, distance, mass, and energy, testing these ideas against the estimated age of the universe. Though untested and unreviewed, this exploration aims to spark discussion and provide fresh perspectives on the interplay of fundamental forces and constants.
 
-🔗 Zenodo DOI: https://doi.org/10.5281/zenodo.14560147
+🔗 Zenodo DOI: <https://doi.org/10.5281/zenodo.14560147>
 
 ---
 
 # End of Document
+
 
 
 
