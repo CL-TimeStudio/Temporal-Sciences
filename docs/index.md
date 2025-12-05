@@ -17,7 +17,7 @@ All project descriptions below are reproduced *exactly* as publicly shared.
 
 # **Research Projects**
 
-## **➤ Temporal Sciences Model (TSM) — Independent Research Project**
+## **➤ Temporal Sciences Model (TSM)**
 **Associated with Temporal Sciences Foundation**
 
 Build a cosmological framework that replaces the gravitational constant 𝐺 and the “dark sector” with a single, time-driven field theory. The TS Model treats the rate of timeflow (Chronorate ⧖) as the master variable from which gravity, fundamental forces, and current constants dynamically emerge.
@@ -57,7 +57,7 @@ This document introduces Temporal Sciences, a new theoretical framework explorin
 
 ---
 
-## **➤ Universal Chrono-Arc Geometry (CAG) — Independent Research Project**
+## **➤ Universal Chrono-Arc Geometry (CAG)**
 **Associated with Temporal Sciences Foundation**
 
 Project aims to develop an ultra-compact curvature model that reframes gravity, cosmic expansion, and quantum mass scales through a single time-centric loop. CAG proposes to replace the tensor heavy-lifting of GR with one phase-based scaling factor, keeping the maths at trigonometry level while recovering classic predictions.
@@ -73,7 +73,7 @@ Key milestones so far:
 
 ---
 
-## **➤ Project MILEVA powered by UniMEF-Core [challenge project]**
+## **➤ Project MILEVA powered by UniMEF-Core**
 **Associated with Temporal Sciences Foundation**
 
 Named for Mileva Marić—a physicist whose recognition has lagged her contributions, historically and today—MILEVA (Model-Independent Layered Evaluation, Verification & Analysis) benchmarks competing cosmological paradigms with open, reproducible metrics. The UniMEF (Universe Model Evaluation Framework) flagship suite runs on UniMEF-Core, a modular scoring engine that compares full universe models or individual subsystems against real-world data and peer frameworks.
