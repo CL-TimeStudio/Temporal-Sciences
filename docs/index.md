@@ -49,9 +49,6 @@ Created and steward the Temporal Sciences Nexus (“The Nexus”), an open-acces
 **“Insight alone is never enough—someone must make the equations touch the world.”  
 — Mileva Marić (inspiration)**
 
-**Temporal Sciences – Nexus: Defining Time, Gravity, and the Universe**  
-This document introduces Temporal Sciences, a new theoretical framework exploring the foundational role of time in shaping physical and biological systems. The Nexus serves as the central reference for this framework, consolidating its key equations, scaling laws, and constants across physics, cosmology, and biology.
-
 **Access the Nexus (Zenodo DOI):**  
 🔗 <https://doi.org/10.5281/zenodo.14791387>
 
