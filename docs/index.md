@@ -17,6 +17,8 @@ All project descriptions below are reproduced *exactly* as publicly shared.
 
 # **Research Projects**
 
+---
+
 ## **➤ Temporal Sciences Model (TSM)**
 **Associated with Temporal Sciences Foundation**
 
