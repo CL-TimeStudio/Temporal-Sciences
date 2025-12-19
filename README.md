@@ -8,9 +8,11 @@ This site consolidates publicly available descriptions, frameworks, and referenc
 This wiki is a companion to the TSF website and the public TS document library.  
 All project descriptions below are reproduced *exactly* as publicly shared.
 
----
+---  
 
-# **Research Projects**
+# **Research Projects**  
+
+---
 
 ## **➤ Temporal Sciences Model (TSM)**
 **Associated with Temporal Sciences Foundation**
